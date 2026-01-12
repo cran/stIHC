@@ -1,0 +1,14 @@
+15a424d7474455f1aeffaee6d5333c6d *DESCRIPTION
+638ef149485fb645bc95801336c666ad *LICENSE
+30e4457a525e606683d949e2e9105d21 *NAMESPACE
+afd6741160e1b490e0d9ec9e1708a227 *R/stIHC.R
+725e30abb5c64f1562055fbdf552ed24 *build/vignette.rds
+58b823e6eb06a22254086a1530494be2 *inst/CITATION
+14f25db4825551db54b3f3a6559b2b2e *inst/doc/stIHC-introduction.R
+8119dcc5a0ef76588bd79e7b553c47e6 *inst/doc/stIHC-introduction.Rmd
+8bb863f51bbe732d7f98cfb6038fad98 *inst/doc/stIHC-introduction.html
+1bad793122f2495f1f0c916d7bafe59c *inst/extdata/spatial_data.rds
+15fb17e637a4d389d269e1c97bf67bab *man/stIHC.Rd
+b2416cf7897e895381949359aea53bd2 *tests/testthat.R
+34c2d64b876da46a61654cff74aeec98 *tests/testthat/test-stIHC.R
+8119dcc5a0ef76588bd79e7b553c47e6 *vignettes/stIHC-introduction.Rmd

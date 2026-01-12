@@ -1,0 +1,17 @@
+citHeader("To cite the 'stIHC' package in publications, please use:")
+
+
+bibentry(
+  bibtype = "Article",
+  title   = "Spatial transcriptomics iterative hierarchical clustering (stIHC): A novel method for identifying spatial gene co-expression modules",
+  author  = c(
+    person("Catherine", "Higgins"),
+    person("Jingyi Jessica", "Li"),
+    person("Michelle", "Carey")
+  ),
+  journal = "Quantitative Biology",
+  year    = 2025,
+  doi     = "10.1002/qub2.70011"
+)
+
+
